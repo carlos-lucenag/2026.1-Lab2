@@ -2,8 +2,8 @@
 
 
 DUPLA: 
- Matricula1: \<to be inserted>   
- Nome Completo 1: \<to be inserted>   
+ Matricula1: 121110782   
+ Nome Completo 1: Carlos Henriche Abner de Lucena Leão Gonçalves
 
- Matricula2: \<to be inserted>   
- Nome Completo 2: \<to be inserted>   
+ Matricula2: 121210320
+ Nome Completo 2: João Pedro Carneiro dos Santos Angelo   
