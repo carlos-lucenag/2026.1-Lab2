@@ -1,0 +1,8 @@
+Sim, no código há memória compartilhada entre as threads.
+
+Todas as threads criadas com:
+    t = threading.Thread(target=semester.process_grades, args=(class_id,))
+
+estão executando métodos do mesmo objeto "semester", ou seja, compartilham memória.
+
+Logo, há condição de corrida, pois as threads estão modificando o mesmo dicionario global "semester_registry".

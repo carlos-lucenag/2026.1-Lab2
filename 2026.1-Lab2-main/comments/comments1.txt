@@ -1,0 +1,3 @@
+"Houve alguma alteração na ordem de execução das correções entre as diferentes execuções?"
+R: Não, as correções sempre seguiram a ordem serial (Turma 1 -> Turma 2 -> Turma 3).
+
